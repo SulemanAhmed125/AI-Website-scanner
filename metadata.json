@@ -1,0 +1,5 @@
+{
+  "name": "Website AI Scanner",
+  "description": "An enterprise-level AI tool that interactively scans live websites. The AI assistant starts by analyzing the homepage, then proactively identifies and suggests key pages for a deeper, user-approved scan. Users can chat with the AI, which dynamically scans additional pages as needed to provide comprehensive, data-driven insights with full user control and transparency.",
+  "requestFramePermissions": []
+}
